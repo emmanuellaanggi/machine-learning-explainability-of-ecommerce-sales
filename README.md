@@ -1,2 +1,2 @@
-# Machine-Learning-Explainability-of-Ecommerce-Sales
-Machine Learning Explainability of Sales
+# Machine Learning Explainability of Ecommerce-Sales
+Using techniques from https://www.kaggle.com/learn/machine-learning-explainability and dataset from https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish. Explanation provided on my medium : https://medium.com/@emmanuellaanggi/machine-learning-explainability-e-commerce-sales-case-study-7265168db40f?sk=fe73f49ff08e2978e851f10a7b349e4a
